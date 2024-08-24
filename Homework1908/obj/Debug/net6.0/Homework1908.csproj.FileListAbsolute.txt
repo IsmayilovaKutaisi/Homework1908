@@ -1,0 +1,5 @@
+/Users/kutaisiismayilova/Projects/Homework1908/obj/Debug/net6.0/Homework1908.csproj.AssemblyReference.cache
+/Users/kutaisiismayilova/Projects/Homework1908/obj/Debug/net6.0/Homework1908.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kutaisiismayilova/Projects/Homework1908/obj/Debug/net6.0/Homework1908.AssemblyInfoInputs.cache
+/Users/kutaisiismayilova/Projects/Homework1908/obj/Debug/net6.0/Homework1908.AssemblyInfo.cs
+/Users/kutaisiismayilova/Projects/Homework1908/obj/Debug/net6.0/Homework1908.csproj.CoreCompileInputs.cache
